@@ -697,4 +697,33 @@ p{
                 width: 100%;
                 height:400px;
             }
+            .header-btn{
+                width:80px;
+                height: 25px;
+                font-size: 1rem;
+                
+            }
+            .header-btns{
+                margin-left: 35%;
+                margin-right: 35%;
+            }
+            .pr-btn{
+                width:80px;
+                height: 25px;
+                font-size: 0.8rem;
+            }
+            .pr-btns{
+                margin-left: 35%;
+                margin-right: 35%;
+                
+            }
+            #main{
+                background-position: center top; 
+            }
+            #presentaion{
+                background-position: center top;
+            }
+            nav{
+                padding: 0px 5px;
+            }
         }
